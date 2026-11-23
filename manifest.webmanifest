@@ -1,0 +1,17 @@
+{
+  "name": "Mi-Chemin Paris",
+  "short_name": "Mi-Chemin",
+  "description": "Trouver où se retrouver entre amis à Paris, d'après les vrais temps de trajet.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1c1429",
+  "theme_color": "#2b1e3e",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
